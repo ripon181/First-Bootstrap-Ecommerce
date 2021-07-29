@@ -1,0 +1,17 @@
+.tv-bg{
+    background-color: #fceae8;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: #c21550;
+}
+.buy-now{
+    background-image: linear-gradient(to bottom, #ec70a2 0%, #ff0267 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}

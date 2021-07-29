@@ -1,4 +1,8 @@
-.tv-bg{
+
+.container{
+    margin-bottom: 100px;
+}
+.tv-bg,.xbox-bg,.head-bg{
     background-color: #fceae8;
 }
 .carousel-item{
@@ -14,4 +18,40 @@
     border-radius: 8px;
     padding: 9px 25px;
     cursor: pointer;
+}
+.cat1{
+    background-color: orangered;
+}
+.cat2{
+    background-color: purple;
+}
+.cat3{
+    background-color: blue;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.categories h{
+    color: white;
+}
+.categories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+.card img{
+    width: 270px;
+}
+#contact{
+    height: 300px;
+    border-radius: 10px;
+}
+#contact h6{
+    color: gray;
+}
+footer{
+    text-align: center;
 }
